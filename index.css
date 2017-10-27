@@ -1,0 +1,36 @@
+/*Coded by Rahul*/
+/*Contact for more code to rhoskeri50@gmail.com*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+.container-fluid{
+    background-color: #9E9E9E;
+}
+#head{
+    font-family: Lobster,'fantasy';
+}
+
+#divhead{
+    padding-top: 2em;
+}
+
+#heading{
+    background-color: #03A9F4;
+    border: 1px solid black;
+}
+
+#info{
+    
+    text-align: center;
+}
+
+span{
+    font-family: 'Kaushan Script';
+}
+
+#footer{
+    background-color: #C8E6C9;
+}
